@@ -1,4 +1,4 @@
-import random
+import random123
 import heapq
 
 class Maze:
